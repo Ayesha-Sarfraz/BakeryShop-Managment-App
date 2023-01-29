@@ -1,0 +1,11 @@
+C:\Users\UMAR\source\repos\Bakery_Shop_ManagmentSystem\Bakery_Shop_ManagmentSystem\bin\Debug\Bakery_Shop_ManagmentSystem.exe.config
+C:\Users\UMAR\source\repos\Bakery_Shop_ManagmentSystem\Bakery_Shop_ManagmentSystem\bin\Debug\Bakery_Shop_ManagmentSystem.exe
+C:\Users\UMAR\source\repos\Bakery_Shop_ManagmentSystem\Bakery_Shop_ManagmentSystem\bin\Debug\Bakery_Shop_ManagmentSystem.pdb
+C:\Users\UMAR\source\repos\Bakery_Shop_ManagmentSystem\Bakery_Shop_ManagmentSystem\obj\Debug\Bakery_Shop_ManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\UMAR\source\repos\Bakery_Shop_ManagmentSystem\Bakery_Shop_ManagmentSystem\obj\Debug\Bakery_Shop_ManagmentSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\UMAR\source\repos\Bakery_Shop_ManagmentSystem\Bakery_Shop_ManagmentSystem\obj\Debug\Bakery_Shop_ManagmentSystem.Form1.resources
+C:\Users\UMAR\source\repos\Bakery_Shop_ManagmentSystem\Bakery_Shop_ManagmentSystem\obj\Debug\Bakery_Shop_ManagmentSystem.Properties.Resources.resources
+C:\Users\UMAR\source\repos\Bakery_Shop_ManagmentSystem\Bakery_Shop_ManagmentSystem\obj\Debug\Bakery_Shop_ManagmentSystem.csproj.GenerateResource.cache
+C:\Users\UMAR\source\repos\Bakery_Shop_ManagmentSystem\Bakery_Shop_ManagmentSystem\obj\Debug\Bakery_Shop_ManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\UMAR\source\repos\Bakery_Shop_ManagmentSystem\Bakery_Shop_ManagmentSystem\obj\Debug\Bakery_Shop_ManagmentSystem.exe
+C:\Users\UMAR\source\repos\Bakery_Shop_ManagmentSystem\Bakery_Shop_ManagmentSystem\obj\Debug\Bakery_Shop_ManagmentSystem.pdb
